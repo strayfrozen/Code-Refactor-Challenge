@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Header Styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,9 @@ a {
 p {
     font-size: 16px;
 }
+/*Header Styling End*/
 
+/*Hero Styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*Hero Styling End*/
 
+/*Benifits Section Styling*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,6 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*Benifits Section Styling End*/
+
+/*Main Articles Section Styling*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,7 +194,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Main Articles Section Styling End*/
 
+/*Footer Styling*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Footer Styling End*/
