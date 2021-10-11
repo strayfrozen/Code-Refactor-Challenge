@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge
 
 ## This is the challenge to fix the Horiseon website 
   In this challenge I was tasked with creating a more accessible
