@@ -10,4 +10,4 @@
 <img src="assets\images\Screenshot (1).png">
 
 ## Here is link to the project
-https://strayfrozen.github.io/Code-Refactor-Challenge/
+https://strayfrozen.github.io/Horiseon/
