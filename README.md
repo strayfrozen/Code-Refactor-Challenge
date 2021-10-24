@@ -7,7 +7,7 @@
     
 
 ## Here is a screenshot of the project
-![Screenshot](assets\images\Screenshot(1).png)
+<img src="assets\images\Screenshot (1).png">
 
 ## Here is link to the project
 https://strayfrozen.github.io/Code-Refactor-Challenge/

@@ -1,13 +1,20 @@
+/*This is for global styles getting rid of all
+the padding and margin*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* This code block changes the background color*/
 
 body {
     background-color: #d9dcd6;
 }
 /*Header Styling*/
+
+/* This style section deals with the nav bar and its elements*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,6 +59,9 @@ p {
 /*Header Styling End*/
 
 /*Hero Styling*/
+
+/* This code block takes  care of the hero image and its position*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +73,10 @@ p {
 /*Hero Styling End*/
 
 /*Benifits Section Styling*/
+
+/*This section styles the benifit articles and images giving
+it positining and color as well*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -141,6 +155,9 @@ p {
 
 /*Main Articles Section Styling*/
 
+/* This Sections styles the articles positioning them and 
+adds color to the font and background*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -197,6 +214,8 @@ p {
 /*Main Articles Section Styling End*/
 
 /*Footer Styling*/
+
+/*This section covers the footer and its font style and positioning*/
 .footer {
     padding: 30px;
     clear: both;
